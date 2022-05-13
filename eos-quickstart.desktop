@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=EndeavourOS Quickstart Installer
+Name=EncryptOS Quickstart Installer
 Comment=Get started by installing some common applications
 Exec=eos-quickstart
 Terminal=false
